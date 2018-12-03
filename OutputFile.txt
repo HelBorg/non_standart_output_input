@@ -1,0 +1,13 @@
+.idea
+.idea\misc.xml
+.idea\modules.xml
+.idea\vcs.xml
+.idea\workspace.xml
+out
+out\production
+out\production\non_standart_output_input
+out\production\non_standart_output_input\com
+out\production\non_standart_output_input\com\helen
+out\production\non_standart_output_input\com\helen\non_stand_inp_outp
+out\production\non_standart_output_input\com\helen\non_stand_inp_outp\App.class
+out\production\non_standart_output_input\com\helen\non_stand_inp_outp\FileHandler.class
